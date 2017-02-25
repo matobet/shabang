@@ -1,0 +1,18 @@
+hash: f4c11792a94f8579d0fa73b4479f7b5ae9da4acd3352562cbfcece2e2a837678
+updated: 2017-02-25T18:49:46.79033426+01:00
+imports:
+- name: github.com/boltdb/bolt
+  version: 583e8937c61f1af6513608ccc75c97b6abdf4ff9
+  subpackages:
+  - '...'
+- name: github.com/spaolacci/murmur3
+  version: 0d12bf811670bf6a1a63828dfbd003eded177fce
+- name: github.com/willf/bitset
+  version: 5c3c0fce48842b2c0bbaa99b4e61b0175d84b47c
+- name: github.com/willf/bloom
+  version: 73320a6e73f3e139842058d7e4886e09ca83ac9b
+- name: golang.org/x/sys
+  version: b699b7032584f0953262cb2788a0ca19bb494703
+  subpackages:
+  - unix
+testImports: []

@@ -1,0 +1,8 @@
+package: github.com/shabang
+import:
+- package: github.com/boltdb/bolt
+  version: ^1.3.0
+  subpackages:
+  - '...'
+- package: github.com/willf/bloom
+  version: ^2.0.0
