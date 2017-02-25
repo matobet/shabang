@@ -1,4 +1,4 @@
-package: github.com/shabang
+package: github.com/matobet/shabang
 import:
 - package: github.com/boltdb/bolt
   version: ^1.3.0
